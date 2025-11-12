@@ -30,7 +30,6 @@ GO
 
 --Create Schemas
 CREATE SCHEMA bronze;
-
 GO
 CREATE SCHEMA silver;
 GO
